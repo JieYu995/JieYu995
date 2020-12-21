@@ -2,6 +2,6 @@
 * working on:
     - Wonder.js
 * Communicate with me:
-    - email: wen_runyu@qq.com
-    - blog: wenrunyu.com
+    - Email: wen_runyu@qq.com
+    - Blog: wenrunyu.com
 
