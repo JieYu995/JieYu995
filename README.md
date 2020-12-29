@@ -1,5 +1,5 @@
-# hi, I'm Runyu Wen
+# hi, I'm Jie Yu
 * Communicate with me:
-    - Email: wen_runyu@qq.com
+    - Email: z_yujie@qq.com
     - Blog: www.wenrunyu.com
 
